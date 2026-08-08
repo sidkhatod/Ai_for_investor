@@ -42,8 +42,6 @@ Backend: uvicorn server:app --reload --port 8000
 
 Frontend: cd et_ui npm install npm run dev
 
-Open: http://localhost:3000
-
 ## ⭐ Note
 
 We don't provide data --- we provide decisions.
